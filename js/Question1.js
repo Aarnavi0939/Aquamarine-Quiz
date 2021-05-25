@@ -23,15 +23,15 @@ class Question1 {
       this.title.html("");
       this.title.position(350, 0);
   
-      this.question1.html("Question:- What is the capital city of Spain" );
+      this.question1.html("Question:- Which is the longest river in the world " );
       this.question1.position(850, 80);
-      this.option5.html("1: Barcelona " );
+      this.option5.html("1: Amazon " );
       this.option5.position(850, 100);
-      this.option6.html("2: Madrid" );
+      this.option6.html("2: Nile" );
       this.option6.position(850, 120);
-      this.option7.html("3: Seville " );
+      this.option7.html("3: Mississippi " );
       this.option7.position(850, 140);
-      this.option8.html("4: Granada" );
+      this.option8.html("4: Yangtze" );
       this.option8.position(850, 160);
   
       this.input3.position(850, 230);
